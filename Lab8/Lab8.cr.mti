@@ -1,0 +1,172 @@
+C:/Users/user/Desktop/CS226/Lab8/tb_mux_behav.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_mux_behav.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_mux_behav
+
+Top level modules:
+	tb_mux_behav
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p1.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p1
+
+Top level modules:
+	tb_p1
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p2.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p2
+
+Top level modules:
+	tb_p2
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_3_input_or_gate.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_3_input_or_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_3_input_or_gate
+
+Top level modules:
+	tb_3_input_or_gate
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p3.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p3
+
+Top level modules:
+	tb_p3
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_and_gate.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_and_gate
+
+Top level modules:
+	tb_and_gate
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p4.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p4
+
+Top level modules:
+	tb_p4
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p1.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/p1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p1
+
+Top level modules:
+	p1
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_3_input_and_gate.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_3_input_and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_3_input_and_gate
+
+Top level modules:
+	tb_3_input_and_gate
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p5.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p5.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p5
+
+Top level modules:
+	tb_p5
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p2.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/p2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p2
+
+Top level modules:
+	p2
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p6.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p6.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p6
+
+Top level modules:
+	tb_p6
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p3.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/p3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p3
+
+Top level modules:
+	p3
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p4.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/p4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module comparators
+
+Top level modules:
+	comparators
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_p7.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_p7.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_p7
+
+Top level modules:
+	tb_p7
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/3_input_and_gate.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/3_input_and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module three_input_and_gate
+
+Top level modules:
+	three_input_and_gate
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p5.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/p5.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p5
+
+Top level modules:
+	p5
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p6.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/p6.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p6
+
+Top level modules:
+	p6
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/tb_or_gate.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/tb_or_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_or_gate
+
+Top level modules:
+	tb_or_gate
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/mux_struct.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/mux_struct.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_struct
+
+Top level modules:
+	mux_struct
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/p7.v {1 {vlog -work work -stats=none {C:\Users\user\Desktop\CS226\Lab8\p7.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module p7_1
+-- Compiling module p7_2
+-- Compiling module p7_3
+-- Compiling module p7_4
+-- Compiling module p7_5
+-- Compiling module p7_6
+
+Top level modules:
+	p7_1
+	p7_2
+	p7_3
+	p7_4
+	p7_5
+	p7_6
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/mux_behav.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/mux_behav.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_behav
+
+Top level modules:
+	mux_behav
+
+} {} {}} C:/Users/user/Desktop/CS226/Lab8/3_input_or_gate.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/CS226/Lab8/3_input_or_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module three_input_or_gate
+
+Top level modules:
+	three_input_or_gate
+
+} {} {}}

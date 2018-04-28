@@ -1,0 +1,57 @@
+C:/cs223/lab6/tb_mux_behav.v {1 {vlog -work work -stats=none C:/cs223/lab6/tb_mux_behav.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_mux_behav
+
+Top level modules:
+	tb_mux_behav
+
+} {} {}} C:/cs223/lab6/tb_and_gate.v {1 {vlog -work work -stats=none C:/cs223/lab6/tb_and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_and_gate
+
+Top level modules:
+	tb_and_gate
+
+} {} {}} C:/cs223/lab6/or_gate.v {1 {vlog -work work -stats=none C:/cs223/lab6/or_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} C:/cs223/lab6/mux_behav2.v {1 {vlog -work work -stats=none C:/cs223/lab6/mux_behav2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_behav2
+
+Top level modules:
+	mux_behav2
+
+} {} {}} C:/cs223/lab6/mux_struct.v {1 {vlog -work work -stats=none C:/cs223/lab6/mux_struct.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_struct
+
+Top level modules:
+	mux_struct
+
+} {} {}} C:/cs223/lab6/tb_or_gate.v {1 {vlog -work work -stats=none C:/cs223/lab6/tb_or_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_or_gate
+
+Top level modules:
+	tb_or_gate
+
+} {} {}} C:/cs223/lab6/mux_behav.v {1 {vlog -work work -stats=none C:/cs223/lab6/mux_behav.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_behav
+
+Top level modules:
+	mux_behav
+
+} {} {}} C:/cs223/lab6/and_gate.v {1 {vlog -work work -stats=none C:/cs223/lab6/and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}}

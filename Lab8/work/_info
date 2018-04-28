@@ -1,0 +1,598 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vcomparators
+Z0 !s110 1520748935
+!i10b 1
+!s100 QB:zVgle8h1Fe]>H2RCdl3
+IENE0Mzf_:EZE]8JHB1NJe2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/CS226/Lab8
+w1520748917
+8C:/Users/user/Desktop/CS226/Lab8/p4.v
+FC:/Users/user/Desktop/CS226/Lab8/p4.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1520748935.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/p4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/p4.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmux_behav
+Z6 !s110 1520747122
+!i10b 1
+!s100 5oS5`BlTcak0Pm0aaWd7F2
+IkOUZ679X]>0?XzfIUdHMX1
+R1
+R2
+w1287572311
+8C:/Users/user/Desktop/CS226/Lab8/mux_behav.v
+FC:/Users/user/Desktop/CS226/Lab8/mux_behav.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1520747122.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/mux_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/mux_behav.v|
+!s101 -O0
+!i113 1
+R5
+vmux_struct
+Z8 !s110 1520747121
+!i10b 1
+!s100 TMW:V=PIGiR>3LF;lf=Ed0
+IF0beRDWLbk[n2n?DQDl0Q1
+R1
+R2
+w1456480851
+8C:/Users/user/Desktop/CS226/Lab8/mux_struct.v
+FC:/Users/user/Desktop/CS226/Lab8/mux_struct.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1520747121.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/mux_struct.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/mux_struct.v|
+!s101 -O0
+!i113 1
+R5
+vp1
+R6
+!i10b 1
+!s100 K6Pn1>hmSR5z<KYclE`D^0
+I`dgg8gPUagVf805;5]_cD2
+R1
+R2
+w1520500541
+8C:/Users/user/Desktop/CS226/Lab8/p1.v
+FC:/Users/user/Desktop/CS226/Lab8/p1.v
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/CS226/Lab8/p1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/p1.v|
+!s101 -O0
+!i113 1
+R5
+vp2
+R6
+!i10b 1
+!s100 ^URYknW>>k:U[c2ii5>ao1
+IElZ`a8N?5BhQPoa?1=S_T0
+R1
+R2
+Z10 w1520505865
+8C:/Users/user/Desktop/CS226/Lab8/p2.v
+FC:/Users/user/Desktop/CS226/Lab8/p2.v
+L0 4
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/CS226/Lab8/p2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/p2.v|
+!s101 -O0
+!i113 1
+R5
+vp3
+!s110 1520747123
+!i10b 1
+!s100 2lZ:B<2:<4IznPdcdSPE:0
+ISCGN66biXWmHfSe0bnWeO1
+R1
+R2
+R10
+8C:/Users/user/Desktop/CS226/Lab8/p3.v
+FC:/Users/user/Desktop/CS226/Lab8/p3.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1520747123.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/p3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/p3.v|
+!s101 -O0
+!i113 1
+R5
+vp5
+!s110 1520748759
+!i10b 1
+!s100 >1Ea0BM:0A6DFBANnPkS40
+I@N=T6GR:o8OU3Vb9^6=aZ3
+R1
+R2
+w1520748742
+8C:/Users/user/Desktop/CS226/Lab8/p5.v
+FC:/Users/user/Desktop/CS226/Lab8/p5.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1520748759.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/p5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/p5.v|
+!s101 -O0
+!i113 1
+R5
+vp6
+Z11 !s110 1520748591
+!i10b 1
+!s100 JDgmd95BQJVD[R6SM]Sz^2
+I9BJi91W8SGMD[h^<7DWNe1
+R1
+R2
+w1520748561
+8C:/Users/user/Desktop/CS226/Lab8/p6.v
+FC:/Users/user/Desktop/CS226/Lab8/p6.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z12 !s108 1520748591.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/p6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/p6.v|
+!s101 -O0
+!i113 1
+R5
+vp7_1
+R11
+!i10b 1
+!s100 W0N3<?8o^F2VBgR8<ghdX1
+I?4DhlfF1o_^Ob]3EjaUbd3
+R1
+R2
+Z13 w1520748292
+Z14 8C:\Users\user\Desktop\CS226\Lab8\p7.v
+Z15 FC:\Users\user\Desktop\CS226\Lab8\p7.v
+L0 9
+R3
+r1
+!s85 0
+31
+R12
+Z16 !s107 C:\Users\user\Desktop\CS226\Lab8\p7.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\user\Desktop\CS226\Lab8\p7.v|
+!s101 -O0
+!i113 1
+R5
+vp7_2
+R11
+!i10b 1
+!s100 d6mlMmI]P:C<dZjVUE1;o2
+IYdNM3N7cSXhc`X6`FL7n63
+R1
+R2
+R13
+R14
+R15
+L0 26
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R5
+vp7_3
+R11
+!i10b 1
+!s100 1E8Ub;MCm5c5`=czUAY1I1
+I]S0oOeiLB1SHnjDVU<NT>3
+R1
+R2
+R13
+R14
+R15
+L0 39
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R5
+vp7_4
+R11
+!i10b 1
+!s100 ^e92IM9d@J`L;Wb]BzI^J3
+ISG8^3j6?]nR2h2_HB4oD:0
+R1
+R2
+R13
+R14
+R15
+L0 56
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R5
+vp7_5
+R11
+!i10b 1
+!s100 AM?60GmF@aZ5D7fEfRWVE0
+IgQcW^>8d@hFMo[VQi9M`F2
+R1
+R2
+R13
+R14
+R15
+L0 70
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R5
+vp7_6
+R11
+!i10b 1
+!s100 XST2KQ[>;HVbA0RC<BzcZ1
+IK_Ui13oIiZOkTRVEY]K;Q0
+R1
+R2
+R13
+R14
+R15
+L0 92
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!s101 -O0
+!i113 1
+R5
+vtb_3_input_and_gate
+R8
+!i10b 1
+!s100 o97l7:`UaUk=MGaE;>@EV1
+I9YR3lIh9FO7?1?5BUEFFd0
+R1
+R2
+w1520472424
+8C:/Users/user/Desktop/CS226/Lab8/tb_3_input_and_gate.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_3_input_and_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_3_input_and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_3_input_and_gate.v|
+!s101 -O0
+!i113 1
+R5
+vtb_3_input_or_gate
+R8
+!i10b 1
+!s100 Y1gA11B>Z]kCiE;W^MNiN2
+INXf3M8`bHL>dG>Y>[KZJT1
+R1
+R2
+w1520465425
+8C:/Users/user/Desktop/CS226/Lab8/tb_3_input_or_gate.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_3_input_or_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_3_input_or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_3_input_or_gate.v|
+!s101 -O0
+!i113 1
+R5
+vtb_and_gate
+R8
+!i10b 1
+!s100 eZ;mm9zc1N_6]gA4=GBaQ3
+Im4Z?_Pe]h?[BTzC9CMcen3
+R1
+R2
+w1287640263
+8C:/Users/user/Desktop/CS226/Lab8/tb_and_gate.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_and_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1520747120.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_and_gate.v|
+!s101 -O0
+!i113 1
+R5
+vtb_mux_behav
+R6
+!i10b 1
+!s100 e`ESXD0=ElaGWEX<31nmN3
+I`8zYmHKUIg4o0TMbz6aNX0
+R1
+R2
+w1287640578
+8C:/Users/user/Desktop/CS226/Lab8/tb_mux_behav.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_mux_behav.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_mux_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_mux_behav.v|
+!s101 -O0
+!i113 1
+R5
+vtb_or_gate
+R8
+!i10b 1
+!s100 o8o7g>B=^1L>8AF19dD[E0
+IKJa34co[ndD=C_DFW2zAd2
+R1
+R2
+w1287638809
+8C:/Users/user/Desktop/CS226/Lab8/tb_or_gate.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_or_gate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_or_gate.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p1
+R6
+!i10b 1
+!s100 zXLAh0CWEdK^75Mc3o17K0
+I^1FANaLR_S3O<EDHm>E^m3
+R1
+R2
+R10
+8C:/Users/user/Desktop/CS226/Lab8/tb_p1.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p1.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p2
+R6
+!i10b 1
+!s100 o2I<bQ1VADS;hK7iXTHzk0
+IinPC5GXdi3DVo>KBPJ2h13
+R1
+R2
+R10
+8C:/Users/user/Desktop/CS226/Lab8/tb_p2.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p2.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p3
+Z18 !s110 1520749060
+!i10b 1
+!s100 7Rm;1UOc4ScE4TKOMicon3
+I>[7i1QJzQRaP1RjKcPO[]2
+R1
+R2
+w1520749039
+8C:/Users/user/Desktop/CS226/Lab8/tb_p3.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p3.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z19 !s108 1520749060.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p3.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p4
+R18
+!i10b 1
+!s100 RTB>g18<j_X8o_3e]@;AT0
+IK10J:RQ;1<H?6B5dih`Y40
+R1
+R2
+w1520748987
+8C:/Users/user/Desktop/CS226/Lab8/tb_p4.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p4.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p5
+R0
+!i10b 1
+!s100 Z><=zRm1T<@d:^fPQG<1a0
+I?9FzLiV?hgah@mVMVd0VH1
+R1
+R2
+w1520748856
+8C:/Users/user/Desktop/CS226/Lab8/tb_p5.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p5.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p6
+!s110 1520748760
+!i10b 1
+!s100 if`Rh>FSU;@mg_lK0HW0f1
+I02i1f@:CXVMXGFK4[_YE]2
+R1
+R2
+w1520748700
+8C:/Users/user/Desktop/CS226/Lab8/tb_p6.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p6.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1520748760.000000
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p6.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p6.v|
+!s101 -O0
+!i113 1
+R5
+vtb_p7
+R11
+!i10b 1
+!s100 L]Jc1OC9MKnca7j@f1A[B2
+IAaM4V^_^H7_Q@hKdi8NJB1
+R1
+R2
+w1520748306
+8C:/Users/user/Desktop/CS226/Lab8/tb_p7.v
+FC:/Users/user/Desktop/CS226/Lab8/tb_p7.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/user/Desktop/CS226/Lab8/tb_p7.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/tb_p7.v|
+!s101 -O0
+!i113 1
+R5
+vthree_input_and_gate
+R8
+!i10b 1
+!s100 nzf_I1Km2:hmzhE4M<RDY3
+IXhzUUj65bnf[fFBFBd<PM0
+R1
+R2
+w1520464596
+8C:/Users/user/Desktop/CS226/Lab8/3_input_and_gate.v
+FC:/Users/user/Desktop/CS226/Lab8/3_input_and_gate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/CS226/Lab8/3_input_and_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/3_input_and_gate.v|
+!s101 -O0
+!i113 1
+R5
+vthree_input_or_gate
+R8
+!i10b 1
+!s100 ?:2]ALz]1o0J8gDND;nfW1
+IhE?Y_V5KM^j^=IA0YFK_e2
+R1
+R2
+w1520465288
+8C:/Users/user/Desktop/CS226/Lab8/3_input_or_gate.v
+FC:/Users/user/Desktop/CS226/Lab8/3_input_or_gate.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/user/Desktop/CS226/Lab8/3_input_or_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/CS226/Lab8/3_input_or_gate.v|
+!s101 -O0
+!i113 1
+R5
